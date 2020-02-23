@@ -1,0 +1,26 @@
+body {
+    font-family: 'Montserrat', ;
+}
+
+.left-text {
+    background-color: #232325;
+    color: white;
+    padding: 60px;
+}
+
+.bg-cover {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+    background-image: url("../images/dark-texture-background.jpg");
+}
+
+a, a:hover, a:visited {
+    color: green;
+}
+
+.opacity-layer {
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
